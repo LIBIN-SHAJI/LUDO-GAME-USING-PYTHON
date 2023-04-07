@@ -1,5 +1,4 @@
-# LUDO-GAME-USING-PYTHON
-                                                        # Ludo game Integrated With AI #
+# LUDO-GAME-USING-PYTHON #
 from tkinter import *
 from tkinter import messagebox
 from PIL import Image,ImageTk
